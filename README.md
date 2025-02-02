@@ -271,3 +271,10 @@ code:
   "errors": ["validation errors"]
 }
 ```
+
+
+
+Contact Information
+Email : kapslogo18@gmail.com
+License
+MIT License Copyright (c) 2024 Cornelius Kibet Kaptuwai
